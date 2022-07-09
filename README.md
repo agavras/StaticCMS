@@ -2,6 +2,9 @@
 
 Testing static cms possibility using eleventy
 
+## Site accecible ici :
+
+https://static-cms-test.netlify.app/
 
 ## Tutorial
 
